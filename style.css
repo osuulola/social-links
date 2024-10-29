@@ -1,0 +1,41 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+    padding: 150px;
+    font-family: 'Inter';
+}
+.container {
+    background-color: hsl(0, 0%, 12%);
+    color: hsl(0, 0%, 100%);
+    padding: 10px;
+    width: 30vw;
+    margin: 0 auto;
+    border-radius: 5px;
+    text-align: center;
+}
+.btn{
+    background-color: hsl(0, 0%, 20%);
+    padding: 10px;
+    
+}
+h3 {
+    color: hsl(75, 94%, 57%);
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    margin: 0 auto;  
+    text-align: center;
+    width: 250px;
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+img {
+    border-radius: 100px;
+    transform: scale(0.7);
+    margin: 0 auto;
+}
+h1 {
+    padding: 2px;
+}
